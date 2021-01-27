@@ -1,6 +1,6 @@
 ## Clone da página inicial do Spotify Web player
 
-- React js
+- React JS
 - React icons
 - Styled-Components
 
